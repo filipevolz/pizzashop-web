@@ -1,3 +1,10 @@
+import { TitlePage } from '@/components/TitlePage'
+
 export function SignIn() {
-  return <h1>SignIn</h1>
+  return (
+    <>
+      <TitlePage title="SignIn" />
+      <h1>SignIn</h1>
+    </>
+  )
 }
