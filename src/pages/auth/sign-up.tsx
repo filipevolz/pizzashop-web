@@ -4,7 +4,7 @@ import { Link, useNavigate } from 'react-router-dom'
 import { toast } from 'sonner'
 import { z } from 'zod'
 
-import { TitlePage } from '@/components/TitlePage'
+import { TitlePage } from '@/components/title-page'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 

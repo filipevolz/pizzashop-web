@@ -1,10 +1,9 @@
-import { TitlePage } from '@/components/TitlePage'
+import { TitlePage } from '@/components/title-page'
 
 export function Dashboard() {
   return (
     <>
       <TitlePage title="Dashboard" />
-      <h1>Dashboard</h1>
     </>
   )
 }
