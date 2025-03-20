@@ -139,7 +139,7 @@ export function OrderTableRow({ order }: OrderTableRowProps) {
             size="xs"
           >
             <ArrowRight className="mr-2 h-3 w-3" />
-            Aprovar
+            Em entrega
           </Button>
         )}
 
@@ -151,7 +151,7 @@ export function OrderTableRow({ order }: OrderTableRowProps) {
             size="xs"
           >
             <ArrowRight className="mr-2 h-3 w-3" />
-            Aprovar
+            Entregue
           </Button>
         )}
       </TableCell>
